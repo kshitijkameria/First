@@ -19,7 +19,7 @@
             <div class="panel panel-primary">
                 <div class="panel-heading">User Reg</div>
                 <div class="panel-body">
-                    <form method="post" action="user_registration_script/index.php">
+                    <form method="post" action="helper.php">
                         <div class="form-group">
                             <label for="email_id">Email</label>
                             <input type="email" class="form-control" id="email_id" name="email_id">
